@@ -19,11 +19,11 @@ Note: If you unable to preview images please click on images icon.
 
 | GUI Home Page | KB Number Parameter | KB Number RESULT |
 |---------|---------|---------|
-| <img src="https://github.com/Vikas1712/Test/tree/master/src/main/java/verint/com/Utils/images/GUI_1.PNG" width="300"/> | <img src="https://github.com/Vikas1712/Test/tree/master/src/main/java/verint/com/Utils/images/GUI_2.PNG" width="300"/> | <img src="https://github.com/Vikas1712/Test/tree/master/src/main/java/verint/com/Utils/images/GUI_3.PNG" width="300"/> |
+| <img src="https://github.com/Vikas1712/Test/tree/master/src/main/java/verint/com/Utils/images/GUI_1.jpg" width="300"/> | <img src="https://github.com/Vikas1712/Test/tree/master/src/main/java/verint/com/Utils/images/GUI_2.jpg" width="300"/> | <img src="https://github.com/Vikas1712/Test/tree/master/src/main/java/verint/com/Utils/images/GUI_3.jpg" width="300"/> |
 
 | KB Number File Path | FileName RESULT | FileName File Path  |
 |---------|---------|---------|
-| <img src="https://github.com/Vikas1712/Test/tree/master/src/main/java/verint/com/Utils/images/GUI_4.PNG" width="300"/> | <img src="https://github.com/Vikas1712/Test/tree/master/src/main/java/verint/com/Utils/images/GUI_5.PNG" width="300"/> | <img src="https://github.com/Vikas1712/Test/tree/master/src/main/java/verint/com/Utils/images/GUI_6.PNG" width="300"/> |
+| <img src="https://github.com/Vikas1712/Test/tree/master/src/main/java/verint/com/Utils/images/GUI_4.jpg" width="300"/> | <img src="https://github.com/Vikas1712/Test/tree/master/src/main/java/verint/com/Utils/images/GUI_5.jpg" width="300"/> | <img src="https://github.com/Vikas1712/Test/tree/master/src/main/java/verint/com/Utils/images/GUI_6.jpg" width="300"/> |
 
 ## Contact
  
